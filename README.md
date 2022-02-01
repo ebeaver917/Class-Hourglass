@@ -6,5 +6,5 @@ default border character is '#' (ASCII 35) and the default fill character is '*'
 the size is set to 39, and if they choose for it to be less than 1, it is set to 1. 
 
 The user can, of course, choose to print the hourglass to the screen using the Draw function, and also grow and shrink the hourglass by one unit with 
-their respective functions Finally, the user can print a summary of the hourglass, which prints the hourglass’s side size, the perimeter of the hourglass,
-and the area of the hourglass. The SUmmary function also prints the hourglass to the console. 
+their respective functions. Finally, the user can print a summary of the hourglass, which prints the hourglass’s side size, the perimeter of the hourglass,
+and the area of the hourglass. The Summary function also prints the hourglass to the console. 
